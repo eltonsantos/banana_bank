@@ -3,3 +3,4 @@ defmodule BananaBank.Repo do
     otp_app: :banana_bank,
     adapter: Ecto.Adapters.Postgres
 end
+  
